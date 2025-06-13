@@ -1,11 +1,12 @@
 
 # 🔥Ridvan Kahraman – From Field to Firmware
-<br><br>
+<br><br><br>
 
 ## 🎯 About
 
 With a strong background in electronics education and hands-on engineering, I transitioned into the software world to build smarter, safer, and more efficient systems.
 My experience spans over 10 years in engineering education, 3+ years in IT, and over a year in data analytics using Python, SQL, and Tableau.
+<br><br>
 Today, I work at the intersection of industrial automation, real-time control systems, and field-tested engineering.
 I design PLC-based control systems for firefighting vehicles, integrate safety protocols, and develop intelligent solutions for mission-critical environments.
 <br><br><br>
@@ -38,7 +39,7 @@ Delivering courses in embedded systems, microcontrollers, RF communications, and
 
 ## 🎓 Education & Certification
 
-**Marmara University** - Electronics and Computer Education - B.Ed. (2010)
+**Marmara University** - Electronics and Computer Education - B.Sc. (2010)
 <br><br>
 **Clarusway** - Data Analytics (2022)
 <br><br><br>
