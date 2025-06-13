@@ -1,7 +1,7 @@
 
 # Ridvan Kahraman – From Field to Firmware 🔥
 ## PLC & Automation | Ex-Military Insight | Problem Solver
-<br><br><br>
+<br><br>
 
 ## 🎯 About
 
