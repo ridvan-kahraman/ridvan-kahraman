@@ -5,11 +5,9 @@
 
 ## 🎯 About
 
-With a strong background in electronics education and hands-on engineering, I transitioned into the software world to build smarter, safer, and more efficient systems.
-My experience spans over 10 years in engineering education, 3+ years in IT, and over a year in data analytics using Python, SQL, and Tableau.
+I come from a strong background in electronics and engineering education, with over 10 years of experience teaching and mentoring in technical fields. In the past few years, I’ve transitioned into software and data analytics, applying tools like Python, SQL, and Tableau to solve engineering problems more intelligently.
 <br><br>
-Today, I work at the intersection of industrial automation, real-time control systems, and field-tested engineering.
-I design PLC-based control systems for firefighting vehicles, integrate safety protocols, and develop intelligent solutions for mission-critical environments.
+Currently, I design PLC-based control systems for firefighting vehicles, focusing on real-time automation and SIL2-compliant safety protocols. My work bridges hands-on engineering, industrial automation, and smart software solutions for mission-critical environments.
 <br><br><br>
 
 ## 🛠️ Tools & Technologies
