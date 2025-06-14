@@ -45,13 +45,13 @@ Delivering courses in embedded systems, microcontrollers, RF communications, and
 
 ## 📫 Contact
 
-**WebSite** - [https://ridvan-kahraman.github.io/](https://ridvan-kahraman.github.io/)
+**AboutMe**  - [https://about.me/ridvan-kahraman/](https://about.me/ridvan-kahraman/)
+<br><br>
+**WebSite**  - [https://ridvan-kahraman.github.io/](https://ridvan-kahraman.github.io/)
 <br><br>
 **LinkedIn** - [https://www.linkedin.com/in/ridvan-kahraman/](https://www.linkedin.com/in/ridvan-kahraman/)
 <br><br>
-**AboutMe** - [https://about.me/ridvan-kahraman/](https://about.me/ridvan-kahraman/)
-<br><br>
-**Medium** - [https://medium.com/@ridvan-kahraman](https://medium.com/@ridvan-kahraman)
+**Medium**   - [https://medium.com/@ridvan-kahraman](https://medium.com/@ridvan-kahraman)
 <br><br>
 
 ---
