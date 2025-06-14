@@ -5,9 +5,9 @@
 
 ## 🎯 About
 
-I come from a strong background in electronics and engineering education, with over 10 years of experience teaching and mentoring in technical fields. In the past few years, I’ve transitioned into software and data analytics, applying tools like Python, SQL, and Tableau to solve engineering problems more intelligently.
+I come from a strong background in electronics and engineering education, with over a decade of teaching and mentoring experience. In recent years, I’ve transitioned into software and data, using tools like Codesys, Structured Text, Python, SQL, and Tableau to approach engineering problems with both logic and clarity.
 <br><br>
-Currently, I design PLC-based control systems for firefighting vehicles, focusing on real-time automation and SIL2-compliant safety protocols. My work bridges hands-on engineering, industrial automation, and smart software solutions for mission-critical environments.
+Today, I design PLC-based automation systems for firefighting vehicles — where code, control, and safety must work in sync and fail safely. My work lives at the intersection of hands-on engineering and smart, mission-critical software. And somewhere in between, I write about what connects systems and souls.
 <br><br><br>
 
 ## 🛠️ Tools & Technologies
