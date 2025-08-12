@@ -24,17 +24,17 @@ Today, I design PLC-based automation systems for firefighting vehicles — where
 **BELTAŞ Firefighting Technologies** — Embedded Software Developer (2025 – Present)  
 Developing embedded PLC software for mission-critical firefighting vehicles using CODESYS Environment and CAN protocols.  
 
-**Birebir VIP Academy** — Information Technology Tutor (2022–2025)  
+**Birebir VIP Academy** — Information Technology Tutor (2022 – 2025)  
 Teaching Scratch, Arduino, and Python — fostering creativity, logic, and problem-solving skills in young minds.  
 
-**Turkish Air Force & National Defense University** — Electronics Lecturer (2011–2022)  
+**Turkish Air Force & National Defense University** — Electronics Lecturer (2011 – 2022)  
 Delivering courses in embedded systems, microcontrollers, RF communications, and technical education.  
 
 ## 🎓 Education & Certification
 
-**Marmara University** — Electronics and Computer Education - B.Sc. (2010)
+**Marmara University** — Electronics and Computer Education - B.Sc. (2005 – 2010)
 
-**Clarusway** — Data Analytics (2022)
+**Clarusway** — Data Analytics (Jan 2022 – Aug 2022)
 
 ## 📫 Contact
 
