@@ -18,10 +18,10 @@ C#, Structured Text, Python, SQL
 **Tools —**
 VS Code, CODESYS, Git, GitHub, Tableau  
 
-**Protocols —**   
+**Protocols —**
 CAN-Bus, Modbus, EtherCAT  
 
-**Systems —**    
+**Systems —**
 PLC, HMI, SCADA, Safety-Critical Logic  
 
 ## 📈 Experience
