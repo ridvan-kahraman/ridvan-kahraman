@@ -9,28 +9,28 @@ Today, I design PLC-based automation systems for firefighting vehicles — where
 
 ## 🛠️ Tools & Technologies
 
-**Languages:**  
+### Languages  
 - C#  
 - Structured Text  
 - Python  
 - SQL  
 
-**Frameworks:**  
+### Frameworks  
 - .NET  
 - ASP.NET Core  
 
-**Tools:**  
+### Tools  
 - VS Code  
 - CODESYS  
 - Git, GitHub  
 - Tableau  
 
-**Protocols:**  
+### Protocols   
 - CAN-Bus  
 - Modbus  
 - EtherCAT  
 
-**Systems:**  
+### Systems    
 - PLC  
 - HMI  
 - SCADA  
