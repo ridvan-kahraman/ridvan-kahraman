@@ -33,7 +33,7 @@ Delivering courses in embedded systems, microcontrollers, RF communications, and
 
 **Marmara University** – Electronics and Computer Education - B.Sc. (Sep 2005 – Jun 2010)
 
-**Clarusway** – Data Analytics - Certified Training (Jan 2022 – Aug 2022)
+**Clarusway** – Data Analytics - Certified Training (Jan 2022 – Oct 2022)
 
 ## 📫 Contact
 
