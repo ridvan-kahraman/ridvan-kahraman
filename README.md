@@ -23,6 +23,9 @@ Developing embedded PLC software for mission-critical firefighting vehicles usin
 **Birebir VIP Academy** – Information Technology Tutor (Sep 2022 – Jan 2025)  
 Teaching Scratch, Arduino, and Python – fostering creativity, logic, and problem-solving skills in young minds.  
 
+**NATO** – Project Officer (Jul 2020 – Jan 2021)  
+Coordinated NATO-compliant finance, procurement, and logistics projects with multinational teams.  
+
 **Turkish Air Force & National Defense University** – Lecturer (Sep 2011 – Aug 2022)  
 Delivering courses in embedded systems, microcontrollers, RF communications, and technical education.  
 
