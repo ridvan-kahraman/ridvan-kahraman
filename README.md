@@ -115,9 +115,9 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ## 📫 Contact
 
-[![Website](assets/images/Website.svg)](https://tridvankahraman.github.io/)
-[![LinkedIn](assets/images/LinkedIn.svg)](https://www.linkedin.com/in/tridvankahraman/) 
-[![Medium](assets/images/Medium.svg)](https://medium.com/@tridvankahraman/)  
+[![Website](assets/images/Website.svg)](https://ridvan-kahraman.github.io/)
+[![LinkedIn](assets/images/LinkedIn.svg)](https://www.linkedin.com/in/ridvan-kahraman/) 
+[![Medium](assets/images/Medium.svg)](https://medium.com/@ridvan-kahraman/)  
 
 ---
 
