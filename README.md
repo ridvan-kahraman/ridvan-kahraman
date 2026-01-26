@@ -1,13 +1,17 @@
-# Ridvan Kahraman – From Field to Firmware 🔥
-## Software Developer | Smart Automation | Problem Solver
+# Ridvan Kahraman – From Education to Control 🔥
+## Mobile PLC Software Developer (CODESYS) | Off-Highway Superstructure Control | SIL-2 | CANopen
 
 ## 🎯 About
 
-I come from a strong background in electronics and engineering education, with over a decade of teaching and mentoring experience.
-In recent years, I’ve transitioned into software and data, using tools like CODESYS, Structured Text, Python, and SQL to approach engineering problems with both logic and clarity.
+With over a decade of experience in electronics and engineering education, I’ve shifted my focus to embedded and industrial control software for safety-critical mobile systems.  
 
-Today, I design PLC-based automation systems for firefighting vehicles – where code, control, and safety must work in sync and fail safely.
-My work lives at the intersection of hands-on engineering and smart, mission-critical software. And somewhere in between, I write about what connects systems and souls.
+I currently design and develop mobile PLC control software for off-highway firefighting vehicle superstructures using CODESYS (Structured Text), CANopen, and industrial communication protocols, aligned with SIL-2 and functional safety principles.  
+
+My work sits at the intersection of real-world physics and control software—where timing, safety, and reliability directly impact machines and human safety.  
+
+I focus on building control solutions that are reliable, maintainable, and scalable, proven in real operating conditions.  
+
+Always learning. Always building. Always improving.  
 
 ## 🛠️ Tools & Technologies
 
@@ -44,20 +48,20 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 
 ## 📈 Experience
 
-### [**BELTAŞ Firefighting Technologies**](https://beltasyangin.com)  
+### [**Beltaş Firefighting Technologies**](https://beltasyangin.com)  
 
 **Embedded Software Developer**  
-*(Feb 2025 – Present)*  
+*Feb 2025 – Present · 1 Year*  
 
-- Developed SIL2-ready, safety-critical software to optimize firefighting vehicle performance.
-- Troubleshot PLC and embedded systems to improve reliability and reduce downtime.
+- Developed SIL-2 oriented PLC control software for off-highway firefighting vehicles using CODESYS.
+- Diagnosed and debugged distributed PLC and embedded systems to improve system reliability.
 - Performed SIL2-compliant software testing to ensure reliability and safety.  
   
 
 ### [**IGNI Code**](https://ignicode.com/)  
 
 **Information Technology Tutor**  
-*(Sep 2022 – Jan 2025)*  
+*Sep 2022 – Jan 2025 · 2 Years 5 Months*  
 
 - Facilitated interactive programming workshops for young learners.
 - Boosted children's coding skills through hands-on robotics projects.
@@ -67,51 +71,51 @@ My work lives at the intersection of hands-on engineering and smart, mission-cri
 ### [**Turkish Air Force**](https://www.hvkk.tsk.tr)  
 
 **Department Chair**  
-*(Sep 2017 – Aug 2022)*  
+*Sep 2017 – Aug 2022 · 5 Years*  
 
 - Managed educational programs at TurAF CEIS School to enhance skills of officers and NCOs.
 - Developed specialized courses for military professionals to improve their expertise.
 - Implemented structured learning plans to boost the overall skill set of the personnel.  
 
 **Lecturer**  
-*(Sep 2011 – Aug 2017)*  
+*Sep 2011 – Aug 2017 · 6 Years*  
 
-- Simplified complex electronic concepts, improving student comprehension and course success rates.
-- Delivered engaging lectures and hands-on sessions in Electronics Engineering to undergraduate students.
-- Taught core courses in Circuit Theory, Electronics, Microcontrollers, and Programming, integrating both theory and practical lab work.  
+- Simplified complex electronic concepts and improved course success rates.
+- Delivered lectures and labs in core electronics and programming.
+- Taught Circuit Theory, Electronics, Microcontrollers, and Programming.  
   
 
 ### [**NATO**](https://www.nato.int)  
 
 **Project Officer**  
-*(Jul 2020 – Jan 2021)*  
+*Jul 2020 – Jan 2021 · 7 Months*  
 
-- Delivered project support across finance, procurement, and logistics, ensuring compliance with NATO standards and timelines.
-- Coordinated daily operations and streamlined communication across cross-functional teams to keep multinational projects on track.
-- Monitored project performance, delivered progress reports, and recommended process improvements to boost efficiency in multinational operations.  
+- Provided project support across finance, procurement, and logistics.
+- Coordinated daily operations and cross-functional communications.
+- Monitored performance and proposed process improvements.  
   
 
 ### [**Turkish National Defense University**](https://www.msu.edu.tr)  
 
 **Parttime Lecturer**  
-*(Sep 2018 – Jun 2020)*  
+*Sep 2018 – Jun 2020 · 1 Year 10 Months*  
 
-- Applied innovative educational methods to foster student engagement.
-- Simplified understanding of sophisticated electronic ideas.
-- Delivered courses on Radio Frequency Techniques, Communication Technologies, and Microcontrollers.  
+- Applied innovative teaching methods for engagement.
+- Simplified complex electronics concepts.
+- Delivered courses on RF Techniques, Communications, and Microcontrollers.  
 
 ## 🎓 Education & Certification
 
 ### [**Marmara University**](https://www.marmara.edu.tr)  
 
-**Electronics and Computer Education - B.Sc.**  
-*(Sep 2005 – Jun 2010)*  
+**Bachelor of Science - BS, Electronics and Computer Education**  
+*Sep 2005 – Jun 2010*  
   
 
 ### [**Clarusway**](https://clarusway.com/)  
 
-**Data Analytics - Certified Training**  
-*(Jan 2022 – Oct 2022)*  
+**Certified Training, Data Analytics**  
+*Jan 2022 – Oct 2022*  
 
 ## 📫 Contact
 
