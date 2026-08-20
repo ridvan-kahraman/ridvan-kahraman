@@ -51,11 +51,11 @@ Always learning. Always building. Always improving.
 ### [**Beltaş Firefighting Technologies**](https://beltasyangin.com)  
 
 **Embedded Software Developer**  
-*Feb 2025 – Present · 1 Year*  
+*Feb 2025 – Present · 2 Years*  
 
 - Developed SIL-2 oriented PLC control software for off-highway firefighting vehicles using CODESYS.
 - Diagnosed and debugged distributed PLC and embedded systems to improve system reliability.
-- Performed SIL2-compliant software testing to ensure reliability and safety.  
+- Performed SIL-2-compliant software testing to ensure reliability and safety.  
   
 
 ### [**IGNI Code**](https://ignicode.com/)  
@@ -97,7 +97,7 @@ Always learning. Always building. Always improving.
 
 ### [**Turkish National Defense University**](https://www.msu.edu.tr)  
 
-**Parttime Lecturer**  
+**Part-time Lecturer**  
 *Sep 2018 – Jun 2020 · 1 Year 10 Months*  
 
 - Applied innovative teaching methods for engagement.
@@ -108,7 +108,7 @@ Always learning. Always building. Always improving.
 
 ### [**Marmara University**](https://www.marmara.edu.tr)  
 
-**Bachelor of Science - BS, Electronics and Computer Education**  
+**Bachelor of Science (B.S.), Electronics and Computer Education**  
 *Sep 2005 – Jun 2010*  
   
 
