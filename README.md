@@ -108,7 +108,7 @@ Always learning. Always building. Always improving.
 
 ### [**Marmara University**](https://www.marmara.edu.tr)  
 
-**Bachelor of Science (B.S.), Electronics and Computer Education**  
+**Bachelor of Science (B.S.), Electronics and Computer Education (100% English)**  
 *Sep 2005 – Jun 2010 · 4 Years 10 Months*  
   
 
