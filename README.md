@@ -109,13 +109,13 @@ Always learning. Always building. Always improving.
 ### [**Marmara University**](https://www.marmara.edu.tr)  
 
 **Bachelor of Science (B.S.), Electronics and Computer Education**  
-*Sep 2005 – Jun 2010*  
+*Sep 2005 – Jun 2010 · 4 Years 10 Months*  
   
 
 ### [**Clarusway**](https://clarusway.com/)  
 
 **Certified Training, Data Analytics**  
-*Jan 2022 – Oct 2022*  
+*Jan 2022 – Oct 2022 · 10 Months*  
 
 ## 📫 Contact
 
