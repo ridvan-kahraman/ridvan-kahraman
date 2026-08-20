@@ -108,6 +108,12 @@ Always learning. Always building. Always improving.
 
 ### [**Marmara University**](https://www.marmara.edu.tr)  
 
+**Master of Science (M.S.), Electrical and Electronics Engineering**  
+*Sep 2025 – Present · 1 Year*  
+  
+
+### [**Marmara University**](https://www.marmara.edu.tr)  
+
 **Bachelor of Science (B.S.), Electronics and Computer Education (100% English)**  
 *Sep 2005 – Jun 2010 · 4 Years 10 Months*  
   
