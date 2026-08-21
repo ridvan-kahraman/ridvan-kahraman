@@ -53,9 +53,11 @@ Always learning. Always building. Always improving.
 **Embedded & PLC Software Engineer**  
 *Feb 2025 – Present · 2 Years*  
 
-- Developed SIL-2 oriented PLC control software for off-highway firefighting vehicles using CODESYS.
-- Diagnosed and debugged distributed PLC and embedded systems to improve system reliability.
-- Performed SIL-2-compliant software testing to ensure reliability and safety.  
+- Develop PLC control software for firefighting vehicle systems using CODESYS (ST).
+- Design SIL-2-aligned safety logic and fault-tolerant control strategies.
+- Implement CANopen communication for distributed control units.
+- Perform debugging, testing and commissioning on live vehicle platforms.
+- Contribute to synchronized multi-controller systems operating without a central application controller.
   
 
 ### [**IGNI Code**](https://ignicode.com/)  
@@ -63,9 +65,7 @@ Always learning. Always building. Always improving.
 **Information Technology Tutor**  
 *Sep 2022 – Jan 2025 · 2 Years 5 Months*  
 
-- Facilitated interactive programming workshops for young learners.
-- Boosted children's coding skills through hands-on robotics projects.
-- Designed engaging educational activities using Python and Arduino.  
+- Delivered programming and robotics workshops for students (ages 8–18) using Python and Arduino.
   
 
 ### [**Turkish Air Force**](https://www.hvkk.tsk.tr)  
@@ -73,16 +73,14 @@ Always learning. Always building. Always improving.
 **Department Chair**  
 *Sep 2017 – Aug 2022 · 5 Years*  
 
-- Managed educational programs at TurAF CEIS School to enhance skills of officers and NCOs.
-- Developed specialized courses for military professionals to improve their expertise.
-- Implemented structured learning plans to boost the overall skill set of the personnel.  
+- Managed and modernized military technical training programs for officers and NCOs.
+- Designed structured learning systems to improve operational and technical competencies.
 
 **Lecturer**  
 *Sep 2011 – Aug 2017 · 6 Years*  
 
-- Simplified complex electronic concepts and improved course success rates.
-- Delivered lectures and labs in core electronics and programming.
-- Taught Circuit Theory, Electronics, Microcontrollers, and Programming.  
+- Designed and delivered electronics training programs for cadets.
+- Taught core Electronics Engineering subjects with hands-on laboratory applications.
   
 
 ### [**NATO**](https://www.nato.int)  
@@ -90,9 +88,8 @@ Always learning. Always building. Always improving.
 **Project Officer**  
 *Jul 2020 – Jan 2021 · 7 Months*  
 
-- Provided project support across finance, procurement, and logistics.
-- Coordinated daily operations and cross-functional communications.
-- Monitored performance and proposed process improvements.  
+- Supported NATO-compliant multinational projects in logistics and operational planning.
+- Coordinated cross-functional teams to improve project execution efficiency.
   
 
 ### [**Turkish National Defense University**](https://www.msu.edu.tr)  
@@ -100,9 +97,8 @@ Always learning. Always building. Always improving.
 **Part-time Lecturer**  
 *Sep 2018 – Jun 2020 · 1 Year 10 Months*  
 
-- Applied innovative teaching methods for engagement.
-- Simplified complex electronics concepts.
-- Delivered courses on RF Techniques, Communications, and Microcontrollers.  
+- Delivered undergraduate-level courses on RF Systems, Communication Technologies and microcontrollers.
+- Simplified complex electronics concepts through practical and application-focused teaching methods.
 
 ## 🎓 Education & Certification
 
