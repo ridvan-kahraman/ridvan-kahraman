@@ -50,7 +50,7 @@ Always learning. Always building. Always improving.
 
 ### [**Beltaş Firefighting Technologies**](https://beltasyangin.com)  
 
-**Embedded Software Developer**  
+**Embedded & PLC Software Engineer**  
 *Feb 2025 – Present · 2 Years*  
 
 - Developed SIL-2 oriented PLC control software for off-highway firefighting vehicles using CODESYS.
