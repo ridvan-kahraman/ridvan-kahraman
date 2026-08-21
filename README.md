@@ -63,9 +63,10 @@ Always learning. Always building. Always improving.
 ### [**IGNI Code**](https://ignicode.com/)  
 
 **Robotics & Coding Instructor**  
-*Sep 2022 – Jan 2025 · 2 Years 5 Months*  
+*Sep 2022 – Present · 4 Years*  
 
-- Founded IGNI Code as an independent education initiative and delivered programming and robotics workshops for students aged 8–18 using Python and Arduino.
+- Founded and independently operate IGNI Code as a part-time education initiative.
+- Deliver project-based programming and robotics education for students aged 8–18 using Python, Arduino, electronics, and hands-on STEM activities.
   
 
 ### [**Turkish Air Force**](https://www.hvkk.tsk.tr)  
