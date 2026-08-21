@@ -1,5 +1,5 @@
 # Ridvan Kahraman – From Education to Control 🔥
-## Mobile PLC Software Developer (CODESYS) | Off-Highway Superstructure Control | SIL-2 | CANopen
+## Embedded & PLC Software Engineer | CODESYS (Structured Text) | CANopen | Off-Highway Machinery | SIL-2-Aligned Safety Systems
 
 ## 🎯 About
 
