@@ -14,10 +14,10 @@ My background in engineering education also enables me to explain complex system
 
 ### Languages
 
-[![C#](assets/badges/C%20Sharp.svg)](#languages)
 [![Structured Text](assets/badges/Structured%20Text.svg)](#languages)
 [![Python](assets/badges/Python.svg)](#languages)
-[![SQL](assets/badges/SQL.svg)](#languages)  
+[![SQL](assets/badges/SQL.svg)](#languages)
+[![C#](assets/badges/C%20Sharp.svg)](#languages)  
 
 ### Frameworks
 
@@ -26,8 +26,8 @@ My background in engineering education also enables me to explain complex system
 
 ### Tools
 
-[![VS Code](assets/badges/VS%20Code.svg)](#tools)
 [![CODESYS](assets/badges/CODESYS.svg)](#tools)
+[![VS Code](assets/badges/VS%20Code.svg)](#tools)
 [![GitHub](assets/badges/GitHub.svg)](#tools)  
 
 ### Protocols
