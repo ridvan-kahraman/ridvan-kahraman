@@ -1,5 +1,5 @@
 # Ridvan Kahraman – From Education to Control 🔥
-## PLC Software Engineer | CODESYS | CANopen | Off&#8209;Highway | SIL-2-Aligned Systems
+## PLC Software Engineer | CODESYS | CANopen | Off&#8209;Highway | SIL-2 | Safety Systems
 
 ## 🎯 About
 
