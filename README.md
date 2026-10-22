@@ -76,7 +76,7 @@ Founded IGNI Code in İzmir as a hands-on technology lab; since 2026 focused on 
 - 2026: Built a CODESYS mobile-controller rig with real I/O, CAN and an Ethernet-connected HMI, and am designing a hands-on PLC curriculum around one rule: find the real cause, then fix it.
 - Developing personal portfolio projects (CAN diagnostics and data logger, J1939 pressure governor) as future training modules, independent of employer work.  
   
-CODESYS (Structured Text) · PLC Programming · IEC 61131-3 · CANopen · j1939 · Industrial Ethernet  
+CODESYS (Structured Text) · PLC Programming · IEC 61131-3 · CANopen · J1939 · Industrial Ethernet  
 
 ### [**Turkish Air Force**](https://www.hvkk.tsk.tr)
 
