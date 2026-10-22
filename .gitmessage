@@ -1,0 +1,43 @@
+# <type>(<scope>): <short summary>
+
+## Examples
+
+# - feat(auth): add login form validation  
+# - fix(api): resolve timeout in fetchUser
+
+## Guidelines
+
+# - The subject line should be under 50 characters.  
+# - Start with a lowercase verb in imperative mood.  
+# - Leave the second line empty.  
+# - Use the third line onward for detailed description.
+
+## Common Types
+
+# - **feat** → New Feature  
+# - **fix** → Bug Fix  
+# - **docs** → Documentation Change  
+# - **style** → Formatting (Whitespace, Semicolons, etc.)  
+# - **refactor** → Code Change That Neither Fixes a Bug nor Adds a Feature  
+# - **test** → Adding or Fixing Tests  
+# - **chore** → Changes to Build Process or Auxiliary Tools
+
+## Optional Gitmoji Usage
+
+# - ✨ feat  
+# - 🐛 fix  
+# - 📝 docs  
+# - 🎨 style  
+# - ♻️ refactor  
+# - ✅ test  
+# - 🔧 chore
+
+## Commit Message Examples
+
+# - ✨ feat(auth): add login form validation  
+# - 🐛 fix(api): resolve timeout in fetchUser  
+# - 🎨 style(ui): update button spacing on mobile  
+# - 📝 docs(readme): add setup instructions  
+# - ♻️ refactor(helpers): simplify date conversion  
+# - ✅ test(login): add failed login unit tests  
+# - 🔧 chore(config): update eslint rules
