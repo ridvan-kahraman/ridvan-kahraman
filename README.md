@@ -1,5 +1,5 @@
 # Ridvan Kahraman – From Education to Control 🔥
-## PLC Software Engineer | CODESYS | CANopen | Off&#8209;Highway | SIL-2 | Safety Systems
+## Mobile Machine Control | CODESYS (ST) | CAN · CANopen · J1939 | Off-Highway & Aerial Platforms | Engineer & Technical Trainer
 
 ## 🎯 About
 
@@ -102,7 +102,7 @@ Taught future Air Force engineers the fundamentals they would later fly on: circ
 **Project Officer (NATO Deployment)**  
 *Jul 2020 – Jan 2021 · 7 Months*  
 
-Deployed from the Turkish Air Force to NATO Resolute Support Mission in Kabul for a 7-month assignment and coordinated logistics and infrastructure projects with a multinational team.
+Deployed from the Turkish Air Force to NATO Resolute Support Mission in Kabul, Afghanistan for a 7-month assignment and coordinated logistics and infrastructure projects with a multinational team.
 - Coordinated ~20 logistics and infrastructure projects across a multinational team.
 - Managed reporting and follow-up between stakeholders from different nations.
 
