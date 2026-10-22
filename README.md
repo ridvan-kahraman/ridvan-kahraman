@@ -62,7 +62,9 @@ Sole developer of the control software for a 32 m turntable ladder and the engin
 - Delivered automatic outrigger and chassis levelling control, now running on vehicles in the field.
 - Developed demand-based engine-speed control that raises and lowers throttle with hydraulic load;  in field use.
 - Designed a reusable control library and signal catalogue so the next aerial products start from a tested foundation instead of from zero.
-- Integrated HMI, CAN sensors and Ethernet/J1939 links, and led system-integration and on-vehicle tests following IEC 61508-3 / ISO 13849-1 software principles.
+- Integrated HMI, CAN sensors and Ethernet/J1939 links, and led system-integration and on-vehicle tests following IEC 61508-3 / ISO 13849-1 software principles.  
+  
+CODESYS (Structured Text) · PLC Programming · IEC 61131-3 · Mobile Machine Control · CANopen · CAN Bus  
 
 ### [**IGNI Code**](https://ignicode.com/)
 
@@ -72,7 +74,9 @@ Sole developer of the control software for a 32 m turntable ladder and the engin
 Founded IGNI Code in İzmir as a hands-on technology lab; since 2026 focused on PLC and control systems.
 - 2022–2026: Ran project-based robotics and coding programs for 60+ students; most stayed for two years or more.
 - 2026: Built a CODESYS mobile-controller rig with real I/O, CAN and an Ethernet-connected HMI, and am designing a hands-on PLC curriculum around one rule: find the real cause, then fix it.
-- Developing personal portfolio projects (CAN diagnostics and data logger, J1939 pressure governor) as future training modules, independent of employer work.
+- Developing personal portfolio projects (CAN diagnostics and data logger, J1939 pressure governor) as future training modules, independent of employer work.  
+  
+CODESYS (Structured Text) · PLC Programming · IEC 61131-3 · CANopen · j1939 · Industrial Ethernet  
 
 ### [**Turkish Air Force**](https://www.hvkk.tsk.tr)
 
@@ -81,14 +85,18 @@ Founded IGNI Code in İzmir as a hands-on technology lab; since 2026 focused on 
 
 Led one of the training departments, responsible for how ~50 officers and NCOs a year learned to operate and maintain electronic systems.
 - Led a team of 4 instructors and owned curriculum, lab equipment and assessment for electronic systems training.
-- Trained ~50 officers and NCOs per year over five years — roughly 250 graduate
+- Trained ~50 officers and NCOs per year over five years — roughly 250 graduate  
+  
+Cross-functional Coordination · Electronic Engineering · Curriculum Development · Leadership  
 
 **Lecturer**  
 *Sep 2011 – Aug 2017 · 6 Years*  
 
 Taught future Air Force engineers the fundamentals they would later fly on: circuit theory, electronics and microcontrollers.
 - Taught circuit theory, electronics and microcontroller courses to 150 cadets per year for six years.
-- Built hands-on lab exercises that tied theory to working hardware and mentored cadet projects.
+- Built hands-on lab exercises that tied theory to working hardware and mentored cadet projects.  
+  
+Higher Education · Electronic Engineering · Microcontrollers · Communication  
 
 ### [**NATO**](https://www.nato.int)
 
@@ -97,7 +105,9 @@ Taught future Air Force engineers the fundamentals they would later fly on: circ
 
 Deployed from the Turkish Air Force to NATO Resolute Support Mission in Kabul, Afghanistan for a 7-month assignment and coordinated logistics and infrastructure projects with a multinational team.
 - Coordinated ~20 logistics and infrastructure projects across a multinational team.
-- Managed reporting and follow-up between stakeholders from different nations.
+- Managed reporting and follow-up between stakeholders from different nations.  
+  
+Project Management · Cross-functional Coordination · Communication  
 
 
 ## 🎓 Education & Certification
@@ -106,11 +116,15 @@ Deployed from the Turkish Air Force to NATO Resolute Support Mission in Kabul, A
 
 **Master of Science (M.Sc.), Electrical and Electronics Engineering**  
 *Sep 2025 – Present · 1 Year*  
+  
+CANopen · CODESYS (Structured Text) · Functional Safety · System Testing  
 
 ### [**Marmara University**](https://www.marmara.edu.tr)
 
 **Bachelor of Science (B.Sc.), Electronics and Computer Education (100% English)**  
 *Sep 2005 – Jun 2010 · 4 Years 10 Months*  
+  
+Electronics · Microcontrollers · Software Development · Curriculum Development  
 
 ### [**Clarusway**](https://clarusway.com/)
 
