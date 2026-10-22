@@ -9,14 +9,7 @@ At Beltaş Firefighting Technologies I am the sole developer of the superstructu
 
 I came to this work from the other side of the whiteboard. For eleven years I taught electronics and microcontrollers to Air Force cadets and later led an electronic-systems training department. I also served as a project officer in a NATO multinational team. That background shows up in how I work: clear documentation, honest test reports, and the ability to explain a control system to an operator, a service technician or a customer's engineer.  
 
-Tools:
-- CODESYS (Structured Text)
-- CAN, CANopen, SAE J1939
-- CODESYS-Based Mobile Controllers
-- HMI Integration
-- Hydraulic Motion Control
-- HIL and On-Vehicle Testing
-- Git  
+Tools: CODESYS (Structured Text), CAN, CANopen, SAE J1939, CODESYS-Based Mobile Controllers, HMI Integration, Hydraulic Motion Control, HIL and On-Vehicle Testing, Git  
 
 Currently completing an MSc in Electrical and Electronics Engineering (Marmara University, 2027). I also run IGNI Code, a hands-on PLC and control-systems training lab in İzmir.  
 
