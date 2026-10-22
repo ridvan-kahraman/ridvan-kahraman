@@ -1,5 +1,6 @@
-# Ridvan Kahraman – From Education to Control 🔥
-## Mobile Machine Control | CODESYS (ST) | CAN · CANopen · J1939 | Off-Highway & Aerial Platforms | Engineer & Technical Trainer
+# Ridvan Kahraman – Engineer & Technical Trainer 🔥
+## Mobile Machine Control | CODESYS (ST) | CAN · CANopen · J1939 |
+## Off-Highway & Aerial Platforms
 
 ## 🎯 About
 
