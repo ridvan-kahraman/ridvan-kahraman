@@ -1,5 +1,5 @@
 # Ridvan Kahraman – Engineer & Technical Trainer 🔥
-## Mobile Machine Control | CODESYS (ST) | CAN · CANopen · J1939 |  Off-Highway & Aerial Platforms
+## Mobile Machine Control | CODESYS (ST) | CAN · CANopen · J1939 · Industrial Ethernet|  Off-Highway & Aerial Platforms
 
 ## 🎯 About
 
